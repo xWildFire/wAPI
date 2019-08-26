@@ -1,0 +1,4 @@
+name: wAPI
+version: 1.0
+author: WildFire
+main: pl.wildfire.api.plugin.ApiPlugin
